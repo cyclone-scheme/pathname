@@ -8,7 +8,7 @@
   (tags "utils")
   (docs "https://github.com/cyclone-scheme/cyclone-winds/wiki/pathname")
   (test "test.scm")
-  (dependencies ((cyclone string)))
+  (dependencies (string))
   (test-dependencies ())
   (foreign-dependencies ())
   (library
